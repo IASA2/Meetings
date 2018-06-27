@@ -27,7 +27,7 @@ Audio Stream: http://ietf102streaming.dnsalias.net/ietf/ietf1023.m3u
 
 11:00 - 11:30:     Review & discuss - replacement for IETF Trust RFC 4317 - draft-arkko-iasa2-trust [Arkko] 
 
-11:30 - 12:00:     Review & discuss - replacement for IASA RFC 4017 - draft-ietf-iasa2-bcp [Haberman & Hall]
+11:30 - 12:00:     Review & discuss - replacement for IASA RFC 4017 - draft-ietf-iasa2-bcp [Hall]
 
 12:00 - 12:20:     Review & discuss - replacement for Selection, Confirmation, and Recall Process RFC 7437 [Livingood]
 
