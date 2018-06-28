@@ -31,4 +31,4 @@ Audio: http://ietf102streaming.dnsalias.net/ietf/ietf1023.m3u
 
 12:00 - 12:20:     Review & discuss - replacement for Selection, Confirmation, and Recall Process RFC 7437 [Livingood]
 
-12:20 - 12:30:     Wrap up & next steps [Co-Chairs]
+12:20 - 12:30:     Wrap up & action items [Co-Chairs]
