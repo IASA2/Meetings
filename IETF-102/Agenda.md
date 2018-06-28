@@ -4,16 +4,16 @@ Full meeting agenda is available at https://datatracker.ietf.org/meeting/102/age
 
 Chairs: Jon Peterson & Jason Livingood
 
-Mailing list: iasa20@ietf.org
+Mailing List: iasa20@ietf.org
 
 ## Tuesday, July 17, 2018: 9:30 - 12:00 EDT
 Room: Laurier
 
 Jabber: xmpp:iasa2@jabber.ietf.org?join
 
-Meetecho Video: https://laurier.conf.meetecho.com/q-meetecho/login.jsp?ietf=iasa2
+Video: https://laurier.conf.meetecho.com/q-meetecho/login.jsp?ietf=iasa2
 
-Audio Stream: http://ietf102streaming.dnsalias.net/ietf/ietf1023.m3u
+Audio: http://ietf102streaming.dnsalias.net/ietf/ietf1023.m3u
 
 ## Agenda
 
