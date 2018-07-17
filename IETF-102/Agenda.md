@@ -21,14 +21,14 @@ Audio: http://ietf102streaming.dnsalias.net/ietf/ietf1023.m3u
 
 09:35 - 09:45:     Status & next steps [Co-Chairs]
 
-09:45 - 11:00:     Review & discuss - draft-ietf-iasa2-struct-00 [Haberman & Hall]
+09:45 - 10:30:     Review & discuss - draft-ietf-iasa2-struct-00 [Haberman & Hall]
 
-11:00 - 11:45:     Update on Operating Agreement and related items [Cooper]
+10:30 - 11:15:     Update on Operating Agreement and related items [Cooper]
 
-11:45 - 12:00:     Review & discuss - replacement for IETF Trust RFC 4371 - draft-arkko-iasa2-trust [Arkko & Hardie] 
+11:15 - 11:30:     Review & discuss - replacement for IETF Trust RFC 4371 - draft-arkko-iasa2-trust [Arkko & Hardie] 
 
-12:00 - 12:10:     Review & discuss - replacement for IASA RFC 4071 - draft-ietf-iasa2-bcp [Hall]
+11:30 - 11:40:     Review & discuss - replacement for IASA RFC 4071 - draft-ietf-iasa2-bcp [Hall]
 
-12:10 - 12:20:     Review & discuss - replacement for Selection, Confirmation, and Recall Process RFC 7437 [Livingood]
+11:40 - 11:50:     Review & discuss - replacement for Selection, Confirmation, and Recall Process RFC 7437 [Livingood]
 
-12:20 - 12:30:     Wrap up & action items [Co-Chairs]
+11:50 - 12:00:     Wrap up & action items [Co-Chairs]
