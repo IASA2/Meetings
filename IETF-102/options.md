@@ -13,3 +13,6 @@ Question 2:
 
 
 2 week confirmation of consensus from 7/17/2018, which ends 7/31/2018
+
+
+Work on NomCom guidance ASAP
