@@ -1,9 +1,9 @@
 Director Sources Decision
 
 Question 1:
-5 Directors 
-7 Directors 
-9 Directors
+* 5 Directors 
+* 7 Directors 
+* 9 Directors
 
 
 Question 2:
