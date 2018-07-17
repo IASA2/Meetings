@@ -3,19 +3,11 @@ Director Sources Decision
 Question 1:
 5 Directors 
 7 Directors 
+9 Directors
 
 
 Question 2:
 If there are LLC appointments, are they incremental/special?
-
-
-
-
-
-
-
-
-
 
 
 Question 3:
