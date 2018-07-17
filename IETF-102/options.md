@@ -1,5 +1,9 @@
 Director Sources Decision
 
+Question 1:
+5 Directors (max 7 in one scenario) vs 7 Directors (max 9 in one scenario)
+
+Question 2:
 Option 1 – Always 7 Directors, Two from LLC:
 
 * 1 IETF Chair or delegate selected by the IESG
