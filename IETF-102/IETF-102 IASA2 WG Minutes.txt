@@ -1,0 +1,51 @@
+
+July 17, 2018
+IETF 102 - Montreal
+IASA 2.0 Working Group - Minutes of Decisions Minute taker: Eric Rescorla
+
+
+Board Size and Structure
+Joe Hall presents two options (See slide 3)
+1. Always 7 directors, Two self-appointed from the LLC
+2. At least 7 directors, maximum 9 with 2 LLC-optional appointees
+
+Discussion at the microphone. Not transcribing it.
+
+Hums.
+Should the target number of board members be 5 or 7?
+Some support for 5, more for 7, almost none for 9
+
+Can anyone not live with 7?
+Very few people
+
+Can anyone not live with 5?
+Maybe a little more than can’t live with 7.
+
+Consensus for: Target number of 7, minimum operating number of 5.
+
+Option 2 vs. Option 3
+
+Option 2 (5 directors, expandable to 6 or 7)
+● 1 IETF Chair or delegate selected by the IESG
+● 1 Appointed by the ISOC Board of Trustees
+● 3 Appointed by the IETF NomCom, confirmed by the IESG
+● AS NEEDED, UP TO 2 Appointed by the LLC board itself, confirmed by the IESG
+
+Option 3 (7 Directors)
+● 1 IETF Chair or delegate selected by the IESG
+● 1 Appointed by the ISOC Board of Trustees
+● 3 Appointed by the IETF NomCom, confirmed by the IESG
+● 2 Appointed by the LLC board itself, confirmed by the IESG
+
+Hum: Solid consensus for Option 2.
+
+Action: Co-chairs will send to mailing list with a final 2-week validation of consensus
+
+Can anyone not live with option 2?
+Silence.
+
+Financial Documents
+Alissa presents, no real objections. See slides
+
+IETF Trust
+General sense that a minimal-sized trust was reasonable. No hums
